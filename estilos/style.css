@@ -15,3 +15,25 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(17, 10, 10, 0.685);
 }
+
+h1 {
+    font-size: 2em;
+    color: rgb(145, 72, 212);
+}
+
+ h2{
+    font-size: 1.5em;
+    color: rgb(145, 72, 212);
+ }
+ 
+ a {
+    text-decoration: underline;
+    font-weight: bold;
+    color: rgb(145, 72, 212);
+ }
+
+ a:hover {
+     text-decoration: underline;
+     font-size: 1.5em;
+    color: rgb(212, 72, 149);
+ }
