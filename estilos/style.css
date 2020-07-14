@@ -26,6 +26,9 @@ h1 {
     color: rgb(145, 72, 212);
  }
  
+ img.lado {
+     float: right;
+ }
  a {
     text-decoration: underline;
     font-weight: bold;
