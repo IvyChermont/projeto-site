@@ -30,13 +30,12 @@ h1 {
      float: right;
  }
  a {
-    text-decoration: underline;
+    text-decoration: none;
     font-weight: bold;
     color: rgb(145, 72, 212);
  }
 
  a:hover {
      text-decoration: underline;
-     font-size: 1.5em;
     color: rgb(212, 72, 149);
  }
